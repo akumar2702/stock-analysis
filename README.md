@@ -7,6 +7,8 @@
 ## Analysis and Challenges
 
 ### For the All Stocks Analysis, one can see that the year 2017 yeilded more profitable returns than the year 2018.  
+<img width="1792" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/95302013/147840589-e17708ae-60ff-4f50-b5db-84eb0395ede4.png">
+<img width="1792" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/95302013/147840590-aee29889-d964-4340-b11d-69c2c8a08407.png">
 
 ## Advantages and Disadvantages of Refactoring Code
 
